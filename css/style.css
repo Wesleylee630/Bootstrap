@@ -338,8 +338,9 @@
 .usernav{
 	position:absolute;
 	top:0px;
-	right:5%;
+	right:3%;
 	margin-right:10%;
+	margin-left:3px;
 	z-index:99;
 }
 .navicon{
